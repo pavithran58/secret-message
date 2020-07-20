@@ -1,0 +1,15 @@
+.row {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.final-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: gray 2px solid;
+    border-radius: 20px;
+}
+
